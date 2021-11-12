@@ -1,0 +1,276 @@
+/* GENERAL */
+:root {
+	/* CSS HEX */
+	--baby-powder: #fbfbf2ff;
+	--platinum: #e5e6e4ff;
+	--timberwolf: #cfd2cdff;
+	--quick-silver: #a6a2a2ff;
+	--gray: #bbbab8ff;
+	--rocket-metallic: #847577ff;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+p {
+	font-family: 'Lato', sans-serif;
+    font-size: 14px;
+	color: black;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Roboto', sans-serif;
+}
+
+.bg-color {
+	background-color: var(--platinum);
+}
+/*NAV*/
+
+.navbar-areve {
+	margin-bottom: 96px;
+	font-size: 18px;
+	text-transform: uppercase;
+}
+
+/*Index page*/
+
+.page_une {
+	width: 100%;
+	min-height: 75vh;
+	margin-bottom: 20px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: top center;
+}
+
+.col-une {
+	background-color: rgba(199, 187, 158, 0.43);
+	border: 1px solid black;
+	border-radius: 1.1rem;
+	padding: 15px 10px;
+}
+
+.titre-section-une {
+	font-family: 'Grand Hotel', cursive;
+	font-size: 4rem;
+}
+
+.sous-titre-section-une {
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 1.6rem;
+}
+
+.hotlines {
+	color: #000;
+	font-size: 18px;
+}
+.logo-min {
+	width: 50px;
+	margin: 10px auto;
+}
+
+.logo-min-h {
+	width:70px;
+	margin: 10px auto;
+}
+
+.row-logos {
+	align-items:center;
+	margin-top: 1.5rem;
+}
+
+@media(max-width:414px) {
+	.page_une {
+		display: none;
+	}
+}
+
+@media(max-width:736px) {
+	.titre-section-une {
+		font-size: 3.5rem;
+	}
+	.sous-titre-section-une {
+		font-size: 16px;
+		line-height: 1.4rem;
+	}
+	.logo-min {
+		max-width: 40px;
+		margin: 10px 5px;
+	}
+}
+
+/*ACTUALITES*/
+
+.container-actus {
+	text-align: center;
+}
+
+.actus {
+	margin: 20px 0 0 0;
+	padding: 40px 0;
+	background-color: var(--timberwolf);
+}
+
+.news {
+	padding: 10px;
+	text-align: justify;
+	/* border: 1px var(--baby-powder) solid; */
+	/* border-radius: 10px; */
+	/* margin: 0 10px; */
+}
+
+.actu-header {
+	font-family: 'Grand Hotel', cursive;
+	margin-bottom: 30px;
+	color: rgb(47, 73, 32);
+	font-size: 3.5rem;
+}
+
+.actu-titre {
+	font-family: 'Roboto', sans-serif;
+    /* background-color: var(--baby-powder); */
+    /* padding: 10px; */
+    /* border-radius: 10px 10px 0 0; */
+    /* margin: 0 0 10px 0; */
+    font-size: 1.6rem;
+}
+
+.meta-actu {
+	font-style: italic;
+}
+/*footer*/
+
+.cnt-footer {
+  margin: O auto;
+  padding: 15px;
+  background-color: var(--platinum);
+}
+
+@media(max-width:414px) {
+	.cnt-footer {
+	  text-align: center;
+	}
+}
+
+.col-footer {
+	text-align:justify;
+}
+
+section {
+	padding:20px;
+}
+
+/* ---------------------------------------------------------- */
+
+/*cards */
+#headCards {
+	/* margin: 20px; */
+	min-height: 450px;
+}
+
+label {
+	margin:5px;
+	vertical-align: center;
+}
+
+table, th, td, tr {
+	border: 1px solid rgb(65, 70, 94);
+	border-collapse: collapse;
+}
+
+.top {
+	vertical-align: top;
+}
+
+fieldset {
+	margin:10px;
+	background-color:#f0f5f5;
+	border:1px solid #646a7e;
+	padding: 15px;
+}
+
+.required {
+	color:red;
+}
+.logos {
+    max-width:130px;
+    max-height:55px;
+    height:auto;
+}
+.insc_pros {
+	background-color: lightgoldenrodyellow;
+}
+
+.titre_form {
+	text-align: center;
+	font-size: 36px;
+	text-transform: uppercase;
+	color: #646a7e;
+	margin:20px;
+}
+
+.lbl_blue {
+	color: #3a3f5f;
+	font-weight: 500;
+}
+
+.info {
+	text-align:center;
+	/* background-color:#cfd7e0; */
+	border:1px solid gray;
+	padding:5px;
+	/* background-color: #e4e6e7; */
+}
+
+.contactTitle {
+	margin:20px 0px 30px 0px;
+	font-weight: 500;
+}
+
+.greenUp {
+	text-transform:uppercase;
+	color: #dfdd43;
+}
+
+.adresse {
+	font-size: 1.05rem;
+	color: white;
+}
+
+.contactAside {
+	padding:10px;
+	background-color: #343a40;
+	color:white;
+	font-size:16px;
+}
+
+@media (max-width:576px){
+	.contactAside {
+		text-align: center;
+		font-size: 18px;
+		padding-bottom: 20px;
+		margin-bottom: 20px;
+	}
+}
+
+.header2 {
+	text-align:center;
+	text-transform: uppercase;
+	margin: 30px 0px 5px 0px;
+}
+
+.questionnaire {
+	padding: 20px 10px 20px 10px;
+	margin: 150px 20px 0px 0px;
+}
+
+.contactAside a {
+	text-decoration: none;
+	color: white;
+}
