@@ -22,7 +22,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col text-center">
-					<p>&copy; 2021 - <a href="https://sibforms.com/serve/MUIEAIzcnEDrjtfPs3WMAU-NkVkwfjkEhqEPrcsTmrz3ng525PsuFINDLCOhwQXr65aAKniNUPtzTZH5D9D_0yKVlumYWUCLMfM3LWeMs55ZnYjLMyj2J8hDlu9iEnMkqMnFZxn3fZcb7g1JjcLZ_e726Kzzumt_zeSUyqFOhZCWMfJQiJw2OYATy6wBjySmLGmrVYwSaYB6TI4u">Newsletter</a> - <a href="mentions.php" target="self">Mentions obligatoires</a> - <a href="assets/SARE_RGPD.pdf" target="_blank">Informations RGPD</a> - <a href="../sitemap.php">Plan du site</a> - <a href="blog_admin.php">Connexion</a></p>
+					<p>&copy; 2021 - <a href="https://sibforms.com/serve/MUIEAIzcnEDrjtfPs3WMAU-NkVkwfjkEhqEPrcsTmrz3ng525PsuFINDLCOhwQXr65aAKniNUPtzTZH5D9D_0yKVlumYWUCLMfM3LWeMs55ZnYjLMyj2J8hDlu9iEnMkqMnFZxn3fZcb7g1JjcLZ_e726Kzzumt_zeSUyqFOhZCWMfJQiJw2OYATy6wBjySmLGmrVYwSaYB6TI4u">Inscription Newsletter</a> - <a href="mentions.php" target="self">Mentions obligatoires</a> - <a href="assets/SARE_RGPD.pdf" target="_blank">Informations RGPD</a> - <a href="../sitemap.php">Plan du site</a> - <a href="blog_admin.php">Connexion</a></p>
 				</div>
 			</div>
 		</div>

@@ -1,5 +1,5 @@
 <?php
-require 'connexion.php';
+require 'components/connexion.php';
 include 'header.php';
 ?>
 <div class="container mt-5">

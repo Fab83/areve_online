@@ -25,8 +25,8 @@
 					<div class='card h-100'>
 						<div class='card-body'>
 							<h5 class='card-title'><?= $title; ?></h5>
-							<h6 class='card-subtitle mb-2 text-muted'><?= $date; ?></h6>
-							<h6 class='card-subtitle mb-2 text-muted'><?= $cat; ?></h6>
+							<h6 class='card-subtitle mb-1 text-muted'><?= $cat; ?></h6>
+							<h6 class='card-subtitle mb-2 text-muted'><?= "Publiée le ".$date; ?></h6>
 							<p class='card-text'><?= $content; ?></p>
 						</div>
 					</div>
