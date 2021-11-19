@@ -1,5 +1,4 @@
 <?php
-function connect_bd() {
     $host = $_SERVER["SERVER_NAME"];
     try {
         if ($host === "localhost") {
@@ -11,5 +10,3 @@ function connect_bd() {
         return FALSE;
         exit();
     }
-    return $idconn;
-}
