@@ -170,12 +170,12 @@ include 'components/header.php'; ?>
 <div class="container">
 <h5 class="greenUp text-center mb-3">Nos partenaires</h5>
     <div class="flex-contain">
-        <div><a href="http://www.cavem.fr" target="_blank"> <img src="assets/sponsors/logo_cavem.png" height="60px" alt="logo CAVEM"></a></div>
-        <div><a href="http://www.dracenie.com" target="_blank"> <img src="assets/logos/DPV.jpg" width="60px" alt="logo Dracénie"></a></div>
-        <div><a href="http://www.cc-paysdefayence.fr/" target="_blank"><img src="assets/sponsors/ccpf.jpg" height="60px" alt="logo Pays de Fayence"></a></div>
-        <div><a href="http://www.ademe.fr/" target="_blank"><img src="assets/sponsors/logo_ADEME.png" height="60px" alt="logo ADEME"></a></div>
-        <div><a href="https://www.maregionsud.fr/" target="_blank"><img src="assets/sponsors/logo_sud.jpg" height="70px" alt="logo Région PACA"></a>	</div>
-        <div><a href="https://www.var.fr/home/" target="_blank"><img src="assets/sponsors/logo_var.png" height="55px" alt="logo département Var"></a>	</div>
+        <div class="logo-flex"><a href="http://www.cavem.fr" target="_blank"> <img src="assets/sponsors/cavem_new.png" height="70px" alt="logo CAVEM"></a></div>
+        <div class="logo-flex"><a href="http://www.dracenie.com" target="_blank"> <img src="assets/logos/DPV.jpg" width="60px" alt="logo Dracénie"></a></div>
+        <div class="logo-flex"><a href="http://www.cc-paysdefayence.fr/" target="_blank"><img src="assets/sponsors/logo_ccpf_new.jpg" height="70px" alt="logo Pays de Fayence"></a></div>
+        <div class="logo-flex"><a href="http://www.ademe.fr/" target="_blank"><img src="assets/sponsors/logo_ADEME.png" height="60px" alt="logo ADEME"></a></div>
+        <div class="logo-flex"><a href="https://www.maregionsud.fr/" target="_blank"><img src="assets/sponsors/logo_sud.jpg" height="70px" alt="logo Région PACA"></a>	</div>
+        <div class="logo-flex"><a href="https://www.var.fr/home/" target="_blank"><img src="assets/sponsors/logo_var.png" height="55px" alt="logo département Var"></a>	</div>
     </div>
 </div>
 
